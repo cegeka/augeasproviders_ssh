@@ -305,3 +305,4 @@ Type documentation can be generated with `puppet doc -r type` or viewed on the
 ## Issues
 
 Please file any issues or suggestions [on GitHub](https://github.com/hercules-team/augeasproviders_ssh/issues).
+
